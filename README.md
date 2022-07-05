@@ -32,3 +32,8 @@ Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por
 * ter um README bem escrito
 * na FARM nossa stack de frontend é majoritariamente em Vue.JS mas não é necessário que o teste use esse framework; em contra-partida, preferimos que seja usado algum framework de grande aceitação no mercado (React, Angular, Vue, Svelte, etc...)
 * fica a seu critério usar um framework de UI (como implementações do Bootstrap ou Material Design) para a estruturação dos componentes de interface ou criá-los do zero
+
+### Links
+* Documentação da [API Covid 19](https://documenter.getpostman.com/)
+* Nosso [LinkedIn](https://www.linkedin.com/company/farminvestimentos/) 
+* E-mail de contato: _______@farminvestimentos.com.br
