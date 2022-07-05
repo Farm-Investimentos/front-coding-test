@@ -11,7 +11,7 @@ TODO: linkar o layout (um .jpg e um .psd ou arquivo em alta)
 Crie e estruture do frontend estático (html e css) a partir do layout.
 
 ### Conectar com a API
-Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://api.covid19api.com/summary); a listagem de países está dentro do objeto Countries, em forma de array. A lista de países que estava estática deve ser listada dinamicamente, assim como os dados de totais de casos e de fatalidades.
+Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://api.covid19api.com/summary); a listagem de países está dentro do objeto *Countries*, em forma de array. A lista de países que estava estática deve ser listada dinamicamente, assim como os dados de totais de casos e de fatalidades.
 
 ## Pré-requisitos
 * deve ser possível rodar o projeto localmente usando npm ou yarn
@@ -25,7 +25,7 @@ Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://a
 Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por exemplo:
 - poder ordenar alfabeticamente ou por quantidade total de casos
 - ter um campo de filtro (campo texto aberto) por nome do país
-- exibir os totais dos últimos 5 dias de um país, ao clicar no nome dele; para isso, pode consumir a [API por país](https://api.covid19api.com/country/brazil/status/confirmed) , onde o brazil é o atributo slug de cada item do sumário
+- exibir os totais dos últimos 5 dias de um país, ao clicar no nome dele; para isso, pode consumir a [API por país](https://api.covid19api.com/country/brazil/status/confirmed) , onde o *brazil* é o atributo slug de cada item do sumário
 
 ## Dicas
 * o histórico de commits mostra como seu código é organizado e como é sua linha de pensamento
