@@ -2,7 +2,7 @@
 Instruções do teste para front-end da FARM
 
 ## O que é esperado?
-Uma aplicação simples para exibição em tela (a partir de um layout) de uma lista de países com o sumário de casos de COVID-19, usando como fonte de dados uma API pública
+Uma aplicação simples para exibição em tela (a partir de um layout) de uma lista de países com o sumário de casos de COVID-19, usando como fonte de dados uma [API pública](https://documenter.getpostman.com/)
 
 ## Tarefas
 
@@ -19,7 +19,13 @@ Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://a
 
 ## Diferenciais
 * app hospedada em alguma url pública, pronta para navegar (exemplo: Github Pages, Heroku, Netlify)
-* algum tipo de cobertura de testes
+* algum nivel de cobertura de testes, seja ele unitário ou de integração
+
+## Use sua criatividade
+Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por exemplo:
+- poder ordenar alfabeticamente ou por quantidade total de casos
+- ter um campo de filtro (campo texto aberto) por nome do país
+- exibir os totais dos últimos 5 dias de um país, ao clicar no nome dele; para isso, pode consumir a [API por país](https://api.covid19api.com/country/brazil/status/confirmed) , onde o brazil é o atributo slug de cada item do sumário
 
 ## Dicas
 * o histórico de commits mostra como seu código é organizado e como é sua linha de pensamento
