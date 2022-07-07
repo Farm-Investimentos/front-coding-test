@@ -36,4 +36,4 @@ Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por
 ### Links
 * Documentação da [API Covid 19](https://documenter.getpostman.com/)
 * Nosso [LinkedIn](https://www.linkedin.com/company/farminvestimentos/) 
-* E-mail de contato: _______@farminvestimentos.com.br
+* E-mail de contato: developers@farminvestimentos.com.br
