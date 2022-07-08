@@ -2,16 +2,16 @@
 Instruções do teste para front-end da FARM
 
 ## O que é esperado?
-Uma aplicação simples para exibição em tela (a partir de um layout) de uma lista de países com o sumário de casos de COVID-19, usando como fonte de dados uma [API pública](https://documenter.getpostman.com/)
+Uma aplicação simples para exibição em tela (a partir de um layout) de uma lista de países com o sumário de casos de COVID-19, usando como fonte de dados uma [API pública](https://documenter.getpostman.com/view/10808728/SzS8rjbc)
 
 ## Tarefas
 
 ### Construir o layout
-Crie e estruture do frontend estático (html e css) a partir do [layout]('./assets/layout.png').
-<br />
+* Crie e estruture do frontend estático (html e css) a partir do [layout]('./assets/layout.png')
+* Na pasta *assets/* estão os assets que podem ser usados na construção do layout.
+* Pode usar a fonte [Spectral do Google Fonts](https://fonts.google.com/specimen/Spectral)
+
 <img src="./assets/layout/layout.jpg" alt="Layout" style="width:480px;"/>
-<br />
-Na pasta *assets/* estão os assets que podem ser usados na construção do layout.
 
 ### Conectar com a API
 Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://api.covid19api.com/summary); a listagem de países está dentro do objeto *Countries*, em forma de array. A lista de países que estava estática deve ser listada dinamicamente, assim como os dados de totais de casos e de fatalidades.
@@ -23,6 +23,7 @@ Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://a
 ## Diferenciais
 * app hospedada em alguma url pública, pronta para navegar (exemplo: Github Pages, Heroku, Netlify)
 * algum nivel de cobertura de testes, seja ele unitário ou de integração
+* versão responsiva
 
 ## Use sua criatividade
 Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por exemplo:
@@ -37,6 +38,7 @@ Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por
 * fica a seu critério usar um framework de UI (como implementações do Bootstrap ou Material Design) para a estruturação dos componentes de interface ou criá-los do zero
 
 ### Links
-* Documentação da [API Covid 19](https://documenter.getpostman.com/)
+* Documentação da [API Covid 19](https://documenter.getpostman.com/view/10808728/SzS8rjbc)
+* [Site API Covid 19](https://covid19api.com/)
 * Nosso [LinkedIn](https://www.linkedin.com/company/farminvestimentos/) 
-* E-mail de contato: developers@farminvestimentos.com.br
+* E-mail para envio do link com seu repositório: [developers@farminvestimentos.com.br](developers@farminvestimentos.com.br)
