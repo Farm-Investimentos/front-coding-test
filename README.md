@@ -9,7 +9,7 @@ Uma aplicação simples para exibição em tela (a partir de um layout) de uma l
 ### Construir o layout
 Crie e estruture do frontend estático (html e css) a partir do [layout]('./assets/layout.png').
 <br />
-<img src="./assets/layout/layout.jpg" alt="Layout" style="width:200px;"/>
+<img src="./assets/layout/layout.jpg" alt="Layout" style="width:480px;"/>
 <br />
 Na pasta *assets/* estão os assets que podem ser usados na construção do layout.
 
