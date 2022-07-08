@@ -7,8 +7,9 @@ Uma aplicação simples para exibição em tela (a partir de um layout) de uma l
 ## Tarefas
 
 ### Construir o layout
-TODO: linkar o layout (um .jpg e um .psd ou arquivo em alta)
-Crie e estruture do frontend estático (html e css) a partir do layout.
+Crie e estruture do frontend estático (html e css) a partir do [layout]('./assets/layout.png').
+<img src="./assets/layout/layout.png" alt="Layout" style="width:200px;"/>
+Na pasta *assets/* estão os assets que podem ser usados na construção do layout.
 
 ### Conectar com a API
 Conecte a sua aplicação com a [API com o sumário de casos de COVID](https://api.covid19api.com/summary); a listagem de países está dentro do objeto *Countries*, em forma de array. A lista de países que estava estática deve ser listada dinamicamente, assim como os dados de totais de casos e de fatalidades.
