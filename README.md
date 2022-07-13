@@ -34,7 +34,7 @@ Gostaríamos de ver a inserção de alguma funcionalidade extra no app, como por
 ## Dicas
 * o histórico de commits mostra como seu código é organizado e como é sua linha de pensamento
 * ter um README bem escrito
-* na FARM nossa stack de frontend é majoritariamente em Vue.JS mas não é necessário que o teste use esse framework; em contra-partida, preferimos que seja usado algum framework de grande aceitação no mercado (React, Angular, Vue, Svelte, etc...)
+* na FARM nossa stack de frontend é majoritariamente em Vue.JS mas não é necessário que o teste use esse framework; você tanto pode usar algum framework  (React, Angular, Vue, Svelte, etc...) quanto criar uma aplicação em com html + css + javascript puros. Fica à sua escolha
 * fica a seu critério usar um framework de UI (como implementações do Bootstrap ou Material Design) para a estruturação dos componentes de interface ou criá-los do zero
 
 ### Links
